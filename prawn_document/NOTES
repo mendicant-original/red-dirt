@@ -1,0 +1,5 @@
+- factory methods + transactional blocks
+- instance_eval
+- instance_variable scoping
+- closure properties / locals
+- block.arity trick: is it evil?
