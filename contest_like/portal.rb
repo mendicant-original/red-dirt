@@ -6,8 +6,6 @@ class Portal
   end 
 end
 
-Player = Struct.new(:location)
-
 # note, there is minitest/spec, but comes w. a bit of baggage.
 
 if __FILE__ == $PROGRAM_NAME

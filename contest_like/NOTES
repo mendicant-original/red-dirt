@@ -1,0 +1,5 @@
+- define_method can break method naming rules?
+- singleton_class?
+- what is the difference between class eval and instance eval?
+- why do we need singleton_class.instance_eval?
+- what are the pros and cons of all the closures here?
