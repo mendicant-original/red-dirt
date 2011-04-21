@@ -30,9 +30,7 @@ module HTML
   end
 end
 
-@name = "Greg"
-
 HTML::Document.generate("hello.html") do |doc|
   doc.font "Courier"
-  doc.text "Hello #{@name}"
+  doc.text "Hello World"
 end
