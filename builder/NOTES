@@ -1,0 +1,10 @@
+How do you turn dynamic method calls into XML tags?
+
+How do you write this XML?
+
+  <class>
+    <student ...>
+    <student ...>
+  </class>
+
+Issues with this style of API?
