@@ -42,7 +42,6 @@ obj = Child.new
 obj.extend(ExtendedModuleOne)
 obj.extend(ExtendedModuleTwo)
 
-
 def obj.trace
   "W" + super
 end
